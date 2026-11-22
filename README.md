@@ -12,7 +12,7 @@ Minimal **[NestJS](https://nestjs.com/)** service with **[Prisma](https://www.pr
 - Empty Prisma schema (MySQL) — ready for `db push`
 - `.github/workflows/ci.yml` → `engineering-standards` reusable Nest CI (`@v1.0.0`)
 - `.github/workflows/discord-notify.yml` (optional webhook)
-- [CONTRIBUTING.md](CONTRIBUTING.md), PR template, Cursor git rule
+- [CONTRIBUTING.md](CONTRIBUTING.md), PR template, **`AGENTS.md`** + **`CLAUDE.md`**, Cursor & Claude git rules
 
 ---
 
